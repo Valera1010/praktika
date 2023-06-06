@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-proxima-nova: "Proxima Nova";
+  --font-ashleycapitalisofia: AshleyCapitaliSofia;
+  --font-inherit: inherit;
+
+  /* font sizes */
+  --font-size-61xl: 80px;
+  --font-size-13xl: 32px;
+  --font-size-41xl: 60px;
+  --font-size-81xl: 100px;
+  --font-size-xl: 20px;
+  --font-size-lg: 18px;
+  --font-size-9xl: 28px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslategray-100: #333;
+  --color-gray-100: #fcfcfc;
+  --color-gray-200: #888;
+  --color-gray-300: #897163;
+  --color-gray-400: #222;
+  --color-gray-500: rgba(255, 255, 255, 0.8);
+  --color-darkgray-100: #999;
+  --color-darkgray-200: rgba(153, 153, 153, 0.8);
+  --color-silver: #c5c5c5;
+  --color-dimgray: #555;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+  --gap-8xs: 5px;
+
+  /* Paddings */
+  --padding-11xl: 30px;
+  --padding-8xl: 27px;
+  --padding-3xs: 10px;
+
+  /* Effects */
+  --big: 0px 20px 50px rgba(0, 0, 0, 0.1);
+  --medium: 0px 15px 20px rgba(0, 0, 0, 0.05);
+}
